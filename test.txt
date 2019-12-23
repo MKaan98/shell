@@ -1,0 +1,18 @@
+public class correct1
+{	
+	public static void main(String[] args) {
+		//no error here(((((
+		char e = '(';
+        	//no error here either}}}}}}}}
+		char a = '\"';
+		/*
+		{{{((((}}}}}}}}}}
+		seemsfine
+		}}}}}}}})))))))))
+		*/
+		
+		String text = "no problem here{{((}}))()(((}}{{{";
+		
+		System.out.println("(((Hello\" World}}}\n"+a+text+a);
+	}
+}
