@@ -4,6 +4,7 @@ my term project for system programming
 available commands are:
 
 1. parentheses_check file_path
+
 checks parantheses (()) and curry parantheses ({}) in a given text or code file (.c ,.java ,.rb and etc) and prints the line with unmatched paratheses. additionally it also checks if quotes or double quotes used correctly.
 
 2. run_commands any_commands
